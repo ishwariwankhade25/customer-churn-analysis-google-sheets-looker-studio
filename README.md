@@ -46,7 +46,7 @@ The original dataset contains customer level data including demographic, service
 - `Churn_Numeric` – Binary churn flag (1 = Churned, 0 = Active)<br>
 - `SeniorCitizenText` – Readable senior citizen indicator
 
-**Location:** `Clean Data - churn_data.csv`
+**Location:** `Clean Data - churn_data.csv`<br>
 **Direct Link:** [Clean dataset use for analysis ](https://github.com/<ishwariwankhade25>/customer-churn-analysis-looker/blob/main/data/clean/churn_data_clean.csv)
 
 ### Key Features:

@@ -40,6 +40,12 @@ The original dataset contains raw customer level data including demographic deta
 
 ### Cleaned Dataset
 
+#### Key Columns Added During Cleaning
+- `Tenure Group` – Categorized customer tenure (New, Medium, Long)
+- `Monthly Charge Group` – Binned monthly charges (Low, Medium, High)
+- `Churn_Numeric` – Binary churn flag (1 = Churned, 0 = Active)
+- `SeniorCitizenText` – Readable senior citizen indicator
+
 - **Location:** `Clean Data - churn_data.csv`
 - **Direct Link:** [Clean dataset use for analysis ](https://github.com/<ishwariwankhade25>/customer-churn-analysis-looker/blob/main/data/clean/churn_data_clean.csv)
 
@@ -89,7 +95,8 @@ The Looker Studio dashboard presents:
 - Revenue impact visualization
 
 **Dashboard:** [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/b1300551-bc5b-4632-90dd-51b3be5ddd77)
-[Dashboard Image](Dashboard.jpg)
+![Dashboard](https://github.com/user-attachments/assets/0266a90c-1d30-4d32-b1ee-755f906f6fee)
+
 
 ## How to Run This Project
 
@@ -116,8 +123,7 @@ The Looker Studio dashboard presents:
 
 ## Author
 
-Ishwari Wankhade
-Aspiring Data Analyst | Business Intelligence | Analytics
+Ishwari Wankhade.. Aspiring Data Analyst | Business Intelligence | Analytics
 - 📧 **Email:** [career.ishwari@gmail.com](career.ishwari@gmail.com)
 - 🔗 **LinkedIn:** [LinkedIn](linkedin.com/in/ishwari-analytics)
 

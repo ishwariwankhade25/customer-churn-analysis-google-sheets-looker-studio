@@ -41,13 +41,13 @@ The original dataset contains customer level data including demographic, service
 ### Cleaned Dataset
 
 #### Key Columns Added During Cleaning
-- `Tenure Group` – Categorized customer tenure (New, Medium, Long)
-- `Monthly Charge Group` – Binned monthly charges (Low, Medium, High)
-- `Churn_Numeric` – Binary churn flag (1 = Churned, 0 = Active)
+- `Tenure Group` – Categorized customer tenure (New, Medium, Long)<br>
+- `Monthly Charge Group` – Binned monthly charges (Low, Medium, High)<br>
+- `Churn_Numeric` – Binary churn flag (1 = Churned, 0 = Active)<br>
 - `SeniorCitizenText` – Readable senior citizen indicator
 
-- **Location:** `Clean Data - churn_data.csv`
-- **Direct Link:** [Clean dataset use for analysis ](https://github.com/<ishwariwankhade25>/customer-churn-analysis-looker/blob/main/data/clean/churn_data_clean.csv)
+**Location:** `Clean Data - churn_data.csv`
+**Direct Link:** [Clean dataset use for analysis ](https://github.com/<ishwariwankhade25>/customer-churn-analysis-looker/blob/main/data/clean/churn_data_clean.csv)
 
 ### Key Features:
 

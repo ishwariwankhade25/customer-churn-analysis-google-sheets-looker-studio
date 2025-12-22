@@ -95,6 +95,7 @@ The Looker Studio dashboard presents:
 - Revenue impact visualization
 
 **Dashboard:** [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/b1300551-bc5b-4632-90dd-51b3be5ddd77)
+
 ![Dashboard](https://github.com/user-attachments/assets/0266a90c-1d30-4d32-b1ee-755f906f6fee)
 
 
@@ -123,7 +124,8 @@ The Looker Studio dashboard presents:
 
 ## Author
 
-Ishwari Wankhade.. Aspiring Data Analyst | Business Intelligence | Analytics
+Ishwari Wankhade ··
+Aspiring Data Analyst | Business Intelligence | Analytics
 - 📧 **Email:** [career.ishwari@gmail.com](career.ishwari@gmail.com)
 - 🔗 **LinkedIn:** [LinkedIn](linkedin.com/in/ishwari-analytics)
 

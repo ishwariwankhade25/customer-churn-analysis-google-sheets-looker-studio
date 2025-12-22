@@ -124,7 +124,7 @@ The Looker Studio dashboard presents:
 
 ## Author
 
-Ishwari Wankhade ··
+Ishwari Wankhade<br>
 Aspiring Data Analyst | Business Intelligence | Analytics
 - 📧 **Email:** [career.ishwari@gmail.com](career.ishwari@gmail.com)
 - 🔗 **LinkedIn:** [LinkedIn](linkedin.com/in/ishwari-analytics)

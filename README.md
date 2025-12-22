@@ -1,6 +1,6 @@
 # Customer Churn Analysis – SaaS Subscription Insights
 
-An end to end customer churn analysis project identifying churn drivers, revenue impact, and actionable retention strategies using real world telecom SaaS data.
+An end to end customer churn analysis project that identifying key churn drivers, quantifies revenue impact, and delivers actionable retention strategies using real world telecom SaaS data.
 
 ## Table of Contents
 
@@ -10,9 +10,9 @@ An end to end customer churn analysis project identifying churn drivers, revenue
 - [Tools and Technologies](#Tools-and-Technologies)
 - [Methods](#Methods)
 - [Key Insights](#Key-Insights)
-- [Dashboard / Output](#Dashboard-/-Output)
+- [Dashboard / Output](#Dashboard--Output)
 - [How to Run This Project](#How-to-Run-This-Project)
-- [Results & Conclusion](#Results-&-Conclusion)
+- [Results & Conclusion](#Results--Conclusion)
 - [Future Work](#Future-Work)
 - [Author](#Author)
 
@@ -34,9 +34,9 @@ This project uses the Telco Customer Churn dataset, widely used for churn analys
 - **Source:** Kaggle
 - **Dataset Name:** Telco Customer Churn
 
-You can find the [origina data set](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) here.
+You can find the [origina dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) here.
 
-The original dataset contains raw customer level data including demographic details, service usage, contract types, billing information, and churn status.
+The original dataset contains customer level data including demographic, service usage, contract types, billing information, and churn status.
 
 ### Cleaned Dataset
 

@@ -39,8 +39,8 @@ You can find the [origina data set](https://www.kaggle.com/datasets/blastchar/te
 The original dataset contains raw customer level data including demographic details, service usage, contract types, billing information, and churn status.
 
 ### Cleaned Dataset
-- **File:** `churn_data_clean.csv`
-- **Location:** `/data/clean/`
+
+- **Location:** `Clean Data - churn_data.csv`
 - **Direct Link:** [Clean dataset use for analysis ](https://github.com/<ishwariwankhade25>/customer-churn-analysis-looker/blob/main/data/clean/churn_data_clean.csv)
 
 ### Key Features:
@@ -89,6 +89,7 @@ The Looker Studio dashboard presents:
 - Revenue impact visualization
 
 **Dashboard:** [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/b1300551-bc5b-4632-90dd-51b3be5ddd77)
+[Dashboard Image](Dashboard.jpg)
 
 ## How to Run This Project
 

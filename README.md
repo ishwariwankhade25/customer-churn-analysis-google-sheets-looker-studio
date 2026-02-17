@@ -119,7 +119,7 @@ The Looker Studio dashboard presents:
 ## Presentation
 A business-focused presentation summarizing the churn analysis, key insights, and recommendations.
 
-- **Project Presentation:** PDF  
+- **Project Presentation:** ![PDF](Presentation_Customer_Churn_Analysis.pdf)  
 
 ## Future Work
 

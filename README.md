@@ -13,6 +13,7 @@ An end to end customer churn analysis project that identifying key churn drivers
 - [Dashboard / Output](#Dashboard--Output)
 - [How to Run This Project](#How-to-Run-This-Project)
 - [Results & Conclusion](#Results--Conclusion)
+- [Presentation](Presentation)
 - [Future Work](#Future-Work)
 - [Author](#Author)
 
@@ -114,6 +115,11 @@ The Looker Studio dashboard presents:
 - New customers and flexible contracts represent the highest churn risk
 
 #### Targeted onboarding, pricing strategies, and contract optimization can significantly reduce churn.
+
+## Presentation
+A business-focused presentation summarizing the churn analysis, key insights, and recommendations.
+
+- **Project Presentation:** PDF  
 
 ## Future Work
 
